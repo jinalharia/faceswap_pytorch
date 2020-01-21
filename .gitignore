@@ -1,4 +1,4 @@
-data/
+# data/
 checkpoint/
 .idea/
 __pycache__/
